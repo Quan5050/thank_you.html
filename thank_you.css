@@ -1,0 +1,26 @@
+.text-background{
+    background-color: #006199;
+    
+    }
+    .text-center a, .p-3{
+    color:#fcfaf6;
+    }
+.navbar-expand-sm{
+        color: #fcfaf6;
+        background-color:#006199;
+      }
+      .nav-link{
+        color: #fcfaf6;
+        font-family: 'Noto Sans JP', sans-serif;
+        font-size: 20px;
+      }
+      .navbar-nav a:hover { 
+        color: #fcfaf6;
+        font-size: 25px;
+        font-weight: bolder;
+      }
+      h1{
+        text-align: center;
+        margin-top: 300px;
+        font-family: 'Hammersmith One', sans-serif;
+      }
